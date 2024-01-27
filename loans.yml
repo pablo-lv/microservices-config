@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Plucas loans related local APIs "
+  contactDetails:
+    name: "Amaal Grega - Developer"
+    email: "amaal@Plucas.com"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934
