@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Hey, welcome to Plucas cards related prod APIs"
+  message: "Hey, welcome to Plucas cards-related production APIs"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@Plucas.com"
