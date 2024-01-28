@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to Plucas accounts related to Q&A APIs "
+  message: "Welcome to Plucas accounts related to QA APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@Plucas.com"
