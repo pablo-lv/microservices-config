@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Plucas accounts related docker APIs "
+  message: "Welcome to Plucas accounts related docker APIs | Test Update "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@Plucas.com"
